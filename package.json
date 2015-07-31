@@ -17,7 +17,7 @@
     "ics"
   ],
   "dependencies": {
-    "libxmljs": "0.10.0"
+    "libxmljs": "^0.14.0"
   },
   "author": "Jewe Pasch",
   "license": "MIT",
